@@ -18,11 +18,11 @@
 
 ### 😄 Glad to see you here!    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-* I a computer science graduate from Cairo University 🎓.
+* I am a computer science graduate from Cairo University 🎓.
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 * I love to explore new technologies and leverage them to solve real-life problems ✨. 
 * Apart from that I also love to share my knowledge with others :loudspeaker: and be a good team player.
-* I'm currently into Web Development 🕸️ learning NextJS 🤓.
+* I'm currently into Web Development and Testing 🕸️.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
